@@ -1,13 +1,4 @@
 master /1
 test /2
-
-
-a lot of text
-s fskof hasdf as
-f; 
-sf o4as fas
- fasfu asf asfas
- fi
-asuf
-as ufo
-sfsufp
+master /3
+clear
