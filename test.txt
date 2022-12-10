@@ -1,9 +1,9 @@
 master /1
 test /2
 master /3
+clear
 
 
-a lot of text
 s fskof hasdf as
 f; 
 sf o4as fas
